@@ -12,13 +12,6 @@ The report details the methodology, tools, vulnerabilities discovered, and explo
 - Hydra    
 - Metasploit Framework  
 
-## 📄 Contents
-- **Full Penetration Testing Report** → [`report/DEPI_Pentest_Report.pdf`]()  
-- **Screenshots & Evidence** → [`docs/screenshots/`](docs/screenshots/)  
-  
-
 ## 🚨 Disclaimer
-This project is for **educational purposes only**.  
-All penetration testing activities were performed in a controlled lab environment.  
+This project is for **educational purposes only**.   
 
----
